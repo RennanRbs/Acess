@@ -11,7 +11,7 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                     bem vindo a Rede Lit
+                     Welcome To Academy Family !
                       <div id="imagem">
                           <img src="{{ URL::to('/') }}/imagens/getway.png"/>
                       </div>
